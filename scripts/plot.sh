@@ -1,8 +1,5 @@
 #! /bin/bash
 
-# virtualenv must be installed on your system, install with e.g.
-# pip install virtualenv
-
 scripts=$(dirname "$0")
 base=$scripts/..
 
